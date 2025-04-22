@@ -1,4 +1,4 @@
-# Volume Control With Computer Vision! 🎯
+# Volume Control With Computer Vision!
 
 ### Project Description
 Control your system volume like a Jedi — just by moving your fingers!
