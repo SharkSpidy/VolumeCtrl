@@ -47,10 +47,9 @@ For Software:
 - `main.py` — Main program for hand tracking and volume control  
 - `HandTrackingModule.py` — Custom wrapper around MediaPipe for easier hand landmark detection  
 - `.venv/` — Python virtual environment (not required to be pushed to GitHub)  
-- `requirements.txt` — List of dependencies (use `pip freeze > requirements.txt`) 
 
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![Screenshot1](https://github.com/SharkSpidy/VolumeCtrl/blob/main/Media/Screenshot%202025-04-22%20184934.png)
 
 ![Screenshot2](https://github.com/SharkSpidy/VolumeCtrl/blob/main/Media/Screenshot%202025-04-22%20185013.png)
