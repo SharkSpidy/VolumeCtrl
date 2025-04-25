@@ -95,4 +95,6 @@ while True:
 
 
     cv2.imshow("Img", img)
-    cv2.waitKey(1)
+    key = cv2.waitKey(1)
+    if key == ord('q'):
+        break
