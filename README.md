@@ -61,4 +61,4 @@ For Software:
 ![Video](https://github.com/SharkSpidy/VolumeCtrl/blob/main/Media/Screen%20Recording%202025-04-22%20183115.mp4)
 
 ---
-Made with ❤️
+Made with ❤️ by Joe[github.com/SharkSpidy]
