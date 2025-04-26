@@ -23,7 +23,7 @@ This track user's hand using a webcam, measure the distance between your fingers
 ##### For Hardware:
     Main Component: Webcam (internal/external)
     Specs: 720p or better for best results
-    Tools Required: Your fingers 😄
+    Tools Required: Your fingers 
 
 
 ### Implementation
