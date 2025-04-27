@@ -58,7 +58,7 @@ For Software:
 
 ### Project Demo
 # Video
-![Video](https://github.com/SharkSpidy/VolumeCtrl/blob/main/Media/Screen%20Recording%202025-04-22%20183115.mp4)
+[Video](https://github.com/SharkSpidy/VolumeCtrl/blob/main/Media/Screen%20Recording%202025-04-22%20183115.mp4)
 
 ---
 Made with ❤️ by [Joe](https://github.com/SharkSpidy)
